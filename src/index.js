@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import Controls from './Controls.json';
